@@ -461,6 +461,7 @@ h3{
   
     .text-container {
       font-size: 0.9rem;
+      margin-top: 0px;
     }
   
     .counter {

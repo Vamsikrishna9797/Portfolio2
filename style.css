@@ -351,6 +351,7 @@ h3{
     font-weight: bold;
     margin-bottom: 20px;
   }
+  .
   
   
   .about-details-container {
@@ -420,6 +421,7 @@ h3{
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out, box-shadow 0.2s ease;
+    margin-top: -75px;
   }
   
   .text-container:hover {
@@ -443,6 +445,7 @@ h3{
   
     .text-container {
       font-size: 0.95rem; /* Slightly smaller font for mobile */
+      margin-top: -75px;
     }
     .left-container .experience-image {
         margin-left: 0%;
@@ -461,7 +464,7 @@ h3{
   
     .text-container {
       font-size: 0.9rem;
-      margin-top: 0px;
+      margin-top: -75px;
     }
   
     .counter {
